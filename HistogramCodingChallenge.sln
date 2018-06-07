@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistogramCodingChallenge", "HistogramCodingChallenge\HistogramCodingChallenge.csproj", "{044B88D7-87EC-4B65-AC77-A54B1029592F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{044B88D7-87EC-4B65-AC77-A54B1029592F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044B88D7-87EC-4B65-AC77-A54B1029592F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044B88D7-87EC-4B65-AC77-A54B1029592F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044B88D7-87EC-4B65-AC77-A54B1029592F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97C10418-518C-4AFC-840D-F9C60C5EC915}
+	EndGlobalSection
+EndGlobal
